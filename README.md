@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+To run, type in the terminal: 
+  1) Install the packages: npm i @alan-ai/alan-sdk-web @material-ui/core classnames words-to-numbers emailjs-com
+  2) npm start
